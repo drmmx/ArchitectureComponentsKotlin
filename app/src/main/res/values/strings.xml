@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ArchitectureComponentsKotlin</string>
+    <string name="type_your_first_name">First name</string>
+    <string name="type_your_last_name">Last name</string>
+    <string name="submit_btn">Submit</string>
+    <string name="title_identification">Your Identification</string>
+    <string name="auto_refresh_fragment">Auto refresh fragment</string>
+    <string name="press_button_to_refresh_last_name">Press button to refresh last name</string>
+    <string name="press_button_to_refresh_first_name">Press button to refresh first name</string>
+    <string name="button_refresh_fragment">Button refresh fragment</string>
+    <string name="refresh">Refresh</string>
+    <string name="home">Home</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="save_button">Save</string>
+</resources>

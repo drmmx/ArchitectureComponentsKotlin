@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeItem"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/firstItem"
+        android:title="@string/first"
+        android:icon="@drawable/ic_swap_horiz_black_24dp"/>
+    <item android:id="@+id/secondItem"
+        android:title="@string/second"
+        android:icon="@drawable/ic_swap_horiz_black_24dp"/>
+</menu>
